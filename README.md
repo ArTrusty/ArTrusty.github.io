@@ -25,7 +25,7 @@ Hopefully, you're now inspired by how fun tech can be. Scroll up and read about 
    
 # Key Projects
 1. Accenture Machine Learning Challenge Project (Break Through Tech AI Program)
-  Check out my team's project repository for the real-world ML project we worked on for Accenture for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Accenture Team Project Git}(https://github.com/oyu-e/btt-accenture1c)
+  Check out my team's project repository for the real-world ML project we worked on for Accenture for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Accenture Team Project Git](https://github.com/oyu-e/btt-accenture1c)
 3. AR Water Crisis Project
    I wanted to bring attention to the water crisis in an interactive way. I created an augmented world that users could place anywhere and interact with. I used Blender to craft 3D objects and water simulations that when tapped by users would play the animations I designed and coded. 
 
